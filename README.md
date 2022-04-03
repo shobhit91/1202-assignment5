@@ -73,8 +73,4 @@ histogram_function()
 df1.to_csv('1000_records_new.csv')
 ```
 
-10.
-
-```
-That's all, happy coding
-```
+10. That's all, happy coding
